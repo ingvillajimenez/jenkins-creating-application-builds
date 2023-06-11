@@ -1,0 +1,5 @@
+INDEX VERSION 1.132+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-creating-application-builds/.metadata/.plugins/org.eclipse.jdt.core
+103980192.index
+1865797976.index
+887603919.index
+1078875698.index
